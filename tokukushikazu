@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mickey Mouse Photo</title>
+</head>
+<body>
+    <h1>Mickey Mouse</h1>
+    <img src="mickey.jpg" alt="Mickey Mouse" width="300">
+</body>
+</html>
